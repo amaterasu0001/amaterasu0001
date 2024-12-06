@@ -4,6 +4,6 @@
 🌐Web Development: Learning JavaScript and React.
   
 ### 🌐 Socials:  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/](https://www.facebook.com/MadaraUchiha00001))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
  
 
