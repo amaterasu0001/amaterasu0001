@@ -22,7 +22,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaterasu0001&show_icons=true&theme=dark)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amaterasu0001&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaterasu0001&layout=compact&theme=dark)  
-![Profile Views](https://komarev.com/ghpvc/?username=amaterasu0001&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=amaterasu0001&color=brightgreen)  
+![Profile Views](https://img.shields.io/badge/Profile_Views-1000-brightgreen)
 
 
 
