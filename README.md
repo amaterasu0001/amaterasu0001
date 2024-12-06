@@ -1,6 +1,6 @@
 ## About Me 
 
-🎯Current Focus:
+🎯Current Focus: #
 🌐Web Development: Learning JavaScript and React.
 
  
