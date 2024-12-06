@@ -23,7 +23,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaterasu0001&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amaterasu0001&theme=dark)  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=amaterasu0001&color=brightgreen)
 
 
  
