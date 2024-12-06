@@ -18,6 +18,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
 ## 📊 GitHub Stats:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaterasu0001&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaterasu0001&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=amaterasu0001&theme=dark)
 
  
 
