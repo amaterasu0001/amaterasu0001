@@ -24,6 +24,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amaterasu0001&theme=dark)  
 ![Profile Views](https://komarev.com/ghpvc/?username=amaterasu0001&color=brightgreen)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-91-brightgreen)
+
 
 
  
